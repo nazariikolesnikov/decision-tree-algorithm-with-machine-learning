@@ -10,7 +10,7 @@
 
 ## 📝 Description
 
-Building a model to predict continuous values based on generated data with random noise. Parameter optimization (weights and bias) is performed using gradient descent, and model quality is evaluated using the root mean square (RMS) error and Pearson’s coefficient of determination. : Solving a binary classification problem for two generated data clusters. The project involves calculating the loss function (cross-entropy), finding the optimal decision boundary, and evaluating the model’s classification accuracy. Creating informative and visually appealing graphs to display data distribution, trend lines, and classification boundaries, which allows for a clear interpretation of the algorithms’ results.
+Cleaning the datasets, converting categorical text variables to numerical formats using `LabelEncoder`, and scaling features using `StandardScaler`. Splitting the data into training and test sets (train_test_split). Building and training two classifiers: Logistic Regression and Decision Tree. Comprehensive analysis of model quality using key statistical metrics: `Accuracy Score`, `F1-score`, `Confusion Matrix`, and a detailed `Classification Report`. Plotting a `ROC` (`Receiver Operating Characteristic`) curve using the matplotlib library to visually compare the algorithms’ ability to distinguish between classes.
 
 ## 📊 Visualizations
 
