@@ -16,4 +16,4 @@ Building a model to predict continuous values based on generated data with rando
 
 <img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesist" src="https://github.com/nazariikolesnikov/decision-tree-algorithm-with-machine-learning/blob/main/ROC-curve.png" />
 
-<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesis" src="https://github.com/nazariikolesnikov/logistic-and-linear-regression-with-tensorflow/blob/main/Logistic%20Regression%20Model.png" />
+<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesis" src="https://github.com/nazariikolesnikov/decision-tree-algorithm-with-machine-learning/blob/main/Decision%20Tree%20Classifier.png" />
