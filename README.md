@@ -1,1 +1,1 @@
-# decision-tree-algorithm-with-machine-learning
+# Decision Tree Algorithm with Machine Learning
