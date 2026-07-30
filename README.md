@@ -1,4 +1,4 @@
-# Decision Tree Algorithm with Machine Learning
+# Decision Tree Algorithm with Machine Learning (Practical Training)
 
 ## 🤖 Technologies
 
